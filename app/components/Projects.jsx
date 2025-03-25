@@ -48,7 +48,7 @@ const Projects = () => {
       title: "Apple iPhone Landing Page",
       url: "https://apple-landing-page-theta.vercel.app/",
       techStack: ["ReactJS", "Tailwind CSS", "GSAP", "Framer Motion", "Three.js"],
-      imageUrl: "/iPhoneProp.png",
+      imageUrl: "/iphoneProp.png",
     },
     {
       title: "E-commerce Web App",
